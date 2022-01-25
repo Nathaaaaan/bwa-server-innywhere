@@ -94,7 +94,7 @@ var data = [
       {
         _id: mongoose.Types.ObjectId('5e96cbe292b97300fc902222'),
         title: 'Tabby Town',
-        price: 120000,
+        price: 12,
         sumBooking: 1,
         country: 'Indonesia',
         city: 'Lampung',
